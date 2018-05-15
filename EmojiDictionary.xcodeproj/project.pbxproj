@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		932B62EB2091E9F50001D3CE /* AddEditEmojiTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 932B62EA2091E9F50001D3CE /* AddEditEmojiTableViewController.swift */; };
+		933281C320AA60DD00C3E037 /* Readme.md  in Resources */ = {isa = PBXBuildFile; fileRef = 933281C220AA60DD00C3E037 /* Readme.md  */; };
 		933BD745208FA75D001D2EE4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933BD744208FA75D001D2EE4 /* AppDelegate.swift */; };
 		933BD74A208FA75D001D2EE4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 933BD748208FA75D001D2EE4 /* Main.storyboard */; };
 		933BD74C208FA75F001D2EE4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 933BD74B208FA75F001D2EE4 /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		932B62EA2091E9F50001D3CE /* AddEditEmojiTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddEditEmojiTableViewController.swift; sourceTree = "<group>"; };
+		933281C220AA60DD00C3E037 /* Readme.md  */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Readme.md "; sourceTree = "<group>"; };
 		933BD741208FA75D001D2EE4 /* EmojiDictionary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EmojiDictionary.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		933BD744208FA75D001D2EE4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		933BD749208FA75D001D2EE4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -44,6 +46,7 @@
 		933BD738208FA75D001D2EE4 = {
 			isa = PBXGroup;
 			children = (
+				933281C220AA60DD00C3E037 /* Readme.md  */,
 				933BD743208FA75D001D2EE4 /* EmojiDictionary */,
 				933BD742208FA75D001D2EE4 /* Products */,
 			);
@@ -134,6 +137,7 @@
 				933BD74F208FA75F001D2EE4 /* LaunchScreen.storyboard in Resources */,
 				933BD74C208FA75F001D2EE4 /* Assets.xcassets in Resources */,
 				933BD74A208FA75D001D2EE4 /* Main.storyboard in Resources */,
+				933281C320AA60DD00C3E037 /* Readme.md  in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
