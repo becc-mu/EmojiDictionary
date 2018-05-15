@@ -4,9 +4,10 @@ I will be updating Completed exercise from Apple's text book.
 
 
 ### Apps to make
-- [x] Emoji Dictonary with user update function.
+- [x] Emoji Dictonary with user update enabled.
 - Simple flashlight app.
 - [ ] TableViews.
 - [ ] Interface builder basics.
 - [ ] Calculator.
+
 
